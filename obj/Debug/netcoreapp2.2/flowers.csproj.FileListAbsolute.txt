@@ -1,0 +1,14 @@
+C:\source\codeworks\flowers\bin\Debug\netcoreapp2.2\flowers.deps.json
+C:\source\codeworks\flowers\bin\Debug\netcoreapp2.2\flowers.runtimeconfig.json
+C:\source\codeworks\flowers\bin\Debug\netcoreapp2.2\flowers.runtimeconfig.dev.json
+c:\source\codeworks\flowers\bin\Debug\netcoreapp2.2\flowers.dll
+c:\source\codeworks\flowers\bin\Debug\netcoreapp2.2\flowers.pdb
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.csprojAssemblyReference.cache
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.csproj.CoreCompileInputs.cache
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.RazorAssemblyInfo.cache
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.RazorAssemblyInfo.cs
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.AssemblyInfoInputs.cache
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.AssemblyInfo.cs
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.RazorTargetAssemblyInfo.cache
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.dll
+c:\source\codeworks\flowers\obj\Debug\netcoreapp2.2\flowers.pdb
