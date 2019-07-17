@@ -38,14 +38,22 @@ namespace flowers.Repositories
 
     public Flower Update(Flower data)
     {
-      string query = @"UPDATE burgers
+      string query = @"UPDATE flowers
                 SET
                     name = @Name,
-                    color = @Color,                    
+                    color = @Color
                 WHERE id = @Id;
       SELECT * FROM flowers WHERE id = @Id
             ";
       return _db.QueryFirstOrDefault<Flower>(query, data);
+    }
+
+    public string Delete(int id)
+    {
+      string query = "DELETE FROM flowers WHERE id = @id";
+      int changedRows = _db.Execute(query, new { id });
+      if (changedRows < 1) throw new Exception("Invalid Id");
+      return "Successfully deleted.";
     }
   }
 }
